@@ -1,0 +1,20 @@
+{
+  "name": "DISCIPLINE 30 — трекер дисциплины",
+  "short_name": "DISCIPLINE 30",
+  "description": "Персональный 30-дневный трекер дисциплины и привычек.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0d0c",
+  "theme_color": "#0b0d0c",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
